@@ -1,0 +1,2 @@
+# .lojaonline
+.lojaonline Domain Registrar
